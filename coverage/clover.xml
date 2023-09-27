@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1695722436525" clover="3.2.0">
+  <project timestamp="1695722436526" name="All files">
+    <metrics statements="34" coveredstatements="34" conditionals="17" coveredconditionals="17" methods="8" coveredmethods="8" elements="59" coveredelements="59" complexity="0" loc="34" ncloc="34" packages="2" files="3" classes="3"/>
+    <package name="examples">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="mathFunctions.ts" path="D:\Hands-On React. Build advanced React JS Frontend with expert\Minesweeper\examples\mathFunctions.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.helpers">
+      <metrics statements="32" coveredstatements="32" conditionals="17" coveredconditionals="17" methods="6" coveredmethods="6"/>
+      <file name="CellsManipulator.ts" path="D:\Hands-On React. Build advanced React JS Frontend with expert\Minesweeper\src\helpers\CellsManipulator.ts">
+        <metrics statements="13" coveredstatements="13" conditionals="8" coveredconditionals="8" methods="3" coveredmethods="3"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="6" count="37" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="299" type="cond" truecount="4" falsecount="0"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="37" type="stmt"/>
+        <line num="23" count="37" type="stmt"/>
+        <line num="24" count="296" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="212" type="stmt"/>
+        <line num="26" count="212" type="stmt"/>
+        <line num="27" count="212" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="183" type="stmt"/>
+        <line num="32" count="37" type="stmt"/>
+      </file>
+      <file name="Field.ts" path="D:\Hands-On React. Build advanced React JS Frontend with expert\Minesweeper\src\helpers\Field.ts">
+        <metrics statements="19" coveredstatements="19" conditionals="9" coveredconditionals="9" methods="3" coveredmethods="3"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="18" count="24" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="25" count="5" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="31" count="16" type="stmt"/>
+        <line num="32" count="110" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="35" count="109" type="cond" truecount="2" falsecount="0"/>
+        <line num="36" count="32" type="stmt"/>
+        <line num="37" count="32" type="stmt"/>
+        <line num="38" count="32" type="stmt"/>
+        <line num="40" count="109" type="stmt"/>
+        <line num="44" count="4" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
